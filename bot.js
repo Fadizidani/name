@@ -1,5 +1,5 @@
 const Eris = require("eris");
-var x5bzteam = new Eris("NTE4MDYxOTg1OTEzNTAzNzQ1.XS44zA.C_CQ7WmN_RpuudqyjIEmLxNRcRs");
+var x5bzteam = new Eris("NTE4MDYxOTg1OTEzNTAzNzQ1.XTtlWQ.HdD4nHAb-lSuyJZO5BiBVBwv6Ts");
 x5bzteam.on("ready", () => {
     console.log("Yo! Changer [ON]");
     onstart();
